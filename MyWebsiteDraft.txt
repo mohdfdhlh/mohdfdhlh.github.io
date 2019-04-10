@@ -1,0 +1,169 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body{
+            background-image:url('wp1811502.jpg');
+            background-size: 1600px 1000px;
+            background-color:gray;
+            background-blend-mode:darken;
+            color:yellow;
+            text-align:center;
+            
+            margin:0;
+            
+        }
+        header{
+            font-family:sans-serif; 
+           
+            color:white;
+            text-align: center;
+            padding:5px
+            
+        }
+        #footer{
+           position:absolute;
+            bottom:0;
+            WIDTH:100%;
+            height:60px;
+            
+        }
+    
+        
+     .column {
+  float: left;
+  padding: 10px;
+}
+
+.left, .right {
+  width: 20%;
+}
+
+.middle {
+  width: 60%;
+}
+
+
+      
+      
+     
+       
+    </style>
+</head>
+<body>
+    <header>
+    <title>My Personal website</title>
+ <!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body{
+            background-image:url('wp1811502.jpg');
+            background-size: 1600px 1000px;
+            background-color:gray;
+            background-blend-mode:darken;
+            color:yellow;
+            text-align:center;
+            
+            margin:0;
+            
+        }
+        header{
+            font-family:sans-serif; 
+           
+            color:white;
+            text-align: center;
+            padding:5px
+            
+        }
+        #footer{
+           position:absolute;
+            bottom:0;
+            WIDTH:100%;
+            height:60px;
+            
+        }
+    
+        
+     .column {
+  float: left;
+  padding: 10px;
+}
+
+.left, .right {
+  width: 20%;
+}
+
+.middle {
+  width: 60%;
+}
+
+
+      
+      
+     
+       
+    </style>
+</head>
+<body>
+    <header>
+    <title>My Personal website</title>
+    <h1>My Personal Website</h1>
+    </header>
+ 
+    
+   
+   
+  <div class="column left" >
+       </div>
+    <div class="column middle" >
+        <table border="1px;">
+            <h1>Movie Recommendation</h1>
+            <tr>
+                <td>Title</td>
+                <td>Trailer</td>
+                <td>Summary</td>
+            </tr>
+          
+            <tr>
+                <td><img src="catch_me_if_you_can_2002_original_film_art_spo_2000x.jpg" height="200" height="300"><br><h3>Catch Me If You Can</h3></td>
+                <td><video width="320" height="240" controls>
+                    <source src="Catch%20Me%20If%20You%20Can%20-%20Trailer.mp4" type="video/mp4">
+                    </video></td>
+                <td>Frank Abagnale, Jr. (Leonardo DiCaprio) worked as a doctor, a lawyer, and as a co-pilot for a major airline -- all before his 18th birthday. A master of deception, he was also a brilliant forger, whose skill gave him his first real claim to fame: At the age of 17, Frank Abagnale, Jr. became the most successful bank robber in the history of the U.S. FBI Agent Carl Hanratty (Tom Hanks) makes it his prime mission to capture Frank and bring him to justice, but Frank is always one step ahead of him.</td>
+            </tr>
+            <tr>
+                <td><img src="inception_2010_french_original_film_art_spo_2000x.jpg" height="200" height="300"><br><h3>Inception</h3></td>
+                <td><video width="320" height="240" controls>
+                    <source src="Inception%20(2010)%20Official%20Trailer%201%20-%20Christopher%20Nolan%20Movie%20HD.mp4" type="video/mp4"</video></td>
+                <td>Dom Cobb (Leonardo DiCaprio) is a thief with the rare ability to enter people's dreams and steal their secrets from their subconscious. His skill has made him a hot commodity in the world of corporate espionage but has also cost him everything he loves. Cobb gets a chance at redemption when he is offered a seemingly impossible task: Plant an idea in someone's mind. If he succeeds, it will be the perfect crime, but a dangerous enemy anticipates Cobb's every move.</td>
+            </tr>
+        </table>
+        <br><br> <h1>My Jam</h1><br><br>
+        <audio controls>
+            <source src="audio.mp3" type="audio/mp3"><br><br>
+        </audio>
+        
+        <form>
+            Name:<br><input type="text" name="Comments"><br>
+            Second Name:<br><input type="text" name="comment2">
+            <br><input type="submit" name="submit" onclick="alert('Submitted')">
+        </form>
+      <br><br><a href="www.uitm.edu.my">Not A Click Bait</a>
+        <button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Date and Time</button>
+       </div>
+    
+   
+   <div class="column right">
+         </div>
+   
+    
+
+    
+    
+  
+</body>
+</html>
